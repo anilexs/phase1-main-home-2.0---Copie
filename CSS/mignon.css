@@ -1,0 +1,32 @@
+table{
+    /* border: 1px solid black; */
+    margin: auto;
+    border-collapse: collapse;
+}
+th, td, tr {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+tfoot {
+    background-color: greenyellow;
+}
+
+body {
+    width: 50px;
+    margin: auto;
+}
+
+.black {
+    background-color: black;
+}
+.bleu {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+.gray {
+    background-color: gray;
+}

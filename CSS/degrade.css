@@ -1,0 +1,13 @@
+div{
+    height: 550px;
+    width: 550px;
+    border-radius: 50%;
+    background-image: linear-gradient(to right, violet, aqua);
+    float: left;
+
+   
+}
+main{
+    margin: auto;
+    width: 1100px;
+}
