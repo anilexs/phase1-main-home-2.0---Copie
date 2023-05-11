@@ -1,0 +1,46 @@
+body{
+    width: 80%;
+    margin: auto;
+    border: 2px solid black;
+   
+
+}
+
+header{
+    padding: 5px;
+    background-color: #8e3557;
+    height: 80px;
+    margin: 0;
+}
+footer{
+    background-color: #8e3557;
+    height: 80px;
+}
+
+nav{
+    background-color: #4a1a2c;
+    padding: 20px;
+    color: white;
+}
+main{
+    border: 20px solid #787746;
+}
+section{
+    background-color: blanchedalmond;
+    height: 300px;
+}
+.head{
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+.midel{
+    text-align: center;
+    margin: 0;
+}
+.bas{
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    color: white;
+}

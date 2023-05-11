@@ -1,0 +1,45 @@
+#conteneur{
+    width: 80%;
+    margin: auto;
+    border: 1px solid black;
+    color: white;
+}
+header, footer{
+    height: 60px;
+    background-color: #8E3557;
+}
+nav{
+    
+    background-color: #4a1a2c;
+}
+main{
+    padding: 5px;
+    /* min-height: 100px; */
+}
+section{
+    height: 200px;
+    background-color: orange;
+}
+p{
+    margin: 0;
+}
+div.dim{
+    width: 50%;
+    height: 200px;
+    float: left;
+}
+.bordeau{
+    background-color: #4a1a2c;
+}
+.vert-cleaire{
+    background-color: #e6e2af;
+}
+.vert-fonce{
+    background-color: #787746;
+}
+.bleu{
+    background-color: #ADD8E6;
+}
+.clear{
+    clear: both;
+}
