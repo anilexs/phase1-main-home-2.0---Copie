@@ -1,0 +1,46 @@
+.cub1{
+    width: 80px;
+    height: 80px;
+    background-color: red;
+}
+.cub2{
+    width: 80px;
+    height: 80px;
+    background-color: green;
+    flex-basis: 250px;
+}
+.cub3{
+    width: 80px;
+    height: 80px;
+    background-color: antiquewhite;
+}
+.contenue_1{
+    width: 100%;
+    height: 200px;
+    border: 2px solid orange;
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+}
+.contenue_2{
+    width: 100%;
+    height: 200px;
+    border: 2px solid orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenue_3{
+    width: 100%;
+    height: 300px;
+    border: 2px solid orange;
+    display: flex;
+    flex-direction: column;
+}
+.contenue_4{
+    width: 100%;
+    height: 200px;
+    border: 2px solid orange;
+    display: flex;
+    flex-direction: row-reverse;
+}

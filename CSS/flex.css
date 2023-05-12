@@ -1,0 +1,44 @@
+.cadre{
+    border: 2px solid orange;
+    width: 100%;
+    height: 200px;
+}
+.cub1{
+    width: 80px;
+    height: 80px;
+    background-color: red;
+    order: 0;
+}
+.cub2{
+    width: 80px;
+    height: 80px;
+    background-color: green;
+    order: 0;
+    flex-basis: 250px;
+}
+.cub3{
+    width: 80px;
+    height: 80px;
+    background-color: antiquewhite;
+    order: 0;
+}
+.contenue_1{
+    display: flex;
+    /* justify-content: space-around; */
+    justify-content: center;
+}
+.contenue_2{
+    width: 100%;
+    height: 600px;
+    border: 2px solid orange;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.contenue_3{
+     width: 100%;
+    height: 200px;
+    border: 2px solid orange;
+    display: flex;
+    flex-direction: row-reverse;
+}

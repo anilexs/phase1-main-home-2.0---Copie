@@ -1,0 +1,15 @@
+main>section>div {
+    height: 100px;
+    position: fixed;
+}
+/* header{
+    position: fixed;
+    top: 0;
+} */
+footer{
+    height: 100px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: pink;
+}
